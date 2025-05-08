@@ -1,4 +1,3 @@
-![giphy](https://github.com/user-attachments/assets/09febc2b-4b14-4f42-8cdd-0b86727d3498)
 # HellMart
 
 ## Description
