@@ -1,5 +1,4 @@
-![Hacker GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnExZ2F6ejAxbW84Z3hyem9ua21lcjI5ajhmc2trOWJyZWVmZHB4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
-
+![giphy](https://github.com/user-attachments/assets/09febc2b-4b14-4f42-8cdd-0b86727d3498)
 # HellMart
 
 ## Description
@@ -8,6 +7,9 @@
 With its efficient multi-threaded architecture, HellMart is optimized for speed, making it an ideal solution for web application reconnaissance. The tool supports customizable wordlists and provides clear results, including found directories, forbidden access directories, and those that couldn't be found. Results are saved for later analysis in a `results.txt` file.
 
 **HellMart** is designed for ethical use only—ensure that you have permission to test the target web server before using this tool.
+
+![giphy](https://github.com/user-attachments/assets/dac44235-759a-4d23-bf68-859525bc21ae)
+
 
 ## Features
 - **Multi-threaded**: Speed up directory fuzzing with multi-threading.
